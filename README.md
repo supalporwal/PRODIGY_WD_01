@@ -1,4 +1,4 @@
-Battle Valley
+
 Battle Valley is a dynamic gaming platform designed for gamers of all levels. With a vast library of games ranging from blockbuster hits to indie gems, Battle Valley offers something for everyone.
 
 Features
